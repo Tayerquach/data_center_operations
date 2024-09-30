@@ -10,7 +10,7 @@ Data Center Operation Optimisation
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Tayerquach/quant_puzzles">
+  <a href="https://github.com/Tayerquach/data_center_operations">
     <img src="https://cdn-images-1.medium.com/max/800/0*TuT_VSZs6hE1b9cU" alt="Logo" width="300" height="180">
   </a>
 
@@ -19,7 +19,7 @@ Data Center Operation Optimisation
   <p align="center">
     Cracking Complex Challenges with Mathematics and Coding.
     <br />
-    <a href="https://medium.com/@quachmaiboi"><strong>Explore My Blog »</strong></a>
+    <a href="https://medium.com/@quachmaiboi/optimizing-data-center-operation-part-1-8c21cf4f9378"><strong>Explore Articles »</strong></a>
     <br />
     <br />
   </p>
