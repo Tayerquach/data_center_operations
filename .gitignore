@@ -1,3 +1,4 @@
 *.drawio
 *.lic
 baseline/
+*.DS_Store
