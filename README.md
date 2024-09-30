@@ -2,7 +2,9 @@ Data Center Operation Optimisation
 ========================
 ## Introduction
 
+**Data center operation management** is a combination of complex and challenging tasks.
 
+In this scenario, there is one decision-maker responsible for managing four data centers. Each data center can contain two types of servers: CPU servers and GPU servers. The decision-maker’s goal is to maximize profit while adhering to a key constraint: each data center has a fixed slot capacity. To achieve this goal, the decision-maker can take one of four actions at each discrete time step: buy a server, move a server between data centers, maintain the current server setup, or dismiss a determined server.
 
 
 [![Medium][medium-shield]][medium-url]
