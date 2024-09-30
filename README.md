@@ -48,6 +48,8 @@ We run code in [![Jupyter][jupyterlab.ipynb]][jupyterlab-url] which is a web-bas
 ```console 
 pip install -r requirements.txt 
 ``` 
+3. Download the <a target="_blank" href="https://www.gurobi.com/academia/academic-program-and-licenses/">Gurobi Academic WLS License</a> if you’re affiliated with an academic institution. Gurobi provides this license for free to academic users, offering full access to their high-performance optimization solver.
+After sucessfully registered, you can download `gurobi.lic` file.
 
 ## Problems lists
 1. **`data_center_operation_part1`**: 
